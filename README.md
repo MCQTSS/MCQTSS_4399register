@@ -8,7 +8,7 @@
 #### IP.txt-代理IP
 ### 赞助
 支付宝
-<img src="https://mcqtssdw.oss-cn-zhangjiakou.aliyuncs.com/MCQTSS_skm/C7A8DC521B4F0F07C2FFD9E0EB3BE75A.jpg" width="111px" height="1534px">、
+<img src="https://mcqtssdw.oss-cn-zhangjiakou.aliyuncs.com/MCQTSS_skm/C7A8DC521B4F0F07C2FFD9E0EB3BE75A.jpg" width="111px" height="153px">、
 微信
-<img src="https://mcqtssdw.oss-cn-zhangjiakou.aliyuncs.com/MCQTSS_skm/3918962FCB73C64D8C1A782C5EF3A45C.jpg" width="111px" height="1534px">
+<img src="https://mcqtssdw.oss-cn-zhangjiakou.aliyuncs.com/MCQTSS_skm/3918962FCB73C64D8C1A782C5EF3A45C.jpg" width="111px" height="153px">
 [爱发电](https://afdian.net/@mcqtss)
