@@ -6,6 +6,11 @@
 #### sfz.txt-实名认证用身份证
 #### auto_register_4399.py-主程序
 #### IP.txt-代理IP
+### 使用的第三方库
+名称 | 版本
+--- | :---:
+requests | 2.26.0
+ddddocr | 1.4.2
 ### 赞助
 [爱发电](https://afdian.net/@mcqtss)
 
