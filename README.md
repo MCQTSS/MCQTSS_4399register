@@ -19,8 +19,8 @@ ddddocr | 1.4.2
 
 支付宝
 
-<img src="https://mcqtssdw.oss-cn-zhangjiakou.aliyuncs.com/MCQTSS_skm/C7A8DC521B4F0F07C2FFD9E0EB3BE75A.jpg" width="111px" height="153px">
+<img src="docs/zfb.jpg" width="111px" height="153px">
 
 微信
 
-<img src="https://mcqtssdw.oss-cn-zhangjiakou.aliyuncs.com/MCQTSS_skm/3918962FCB73C64D8C1A782C5EF3A45C.jpg" width="111px" height="153px">
+<img src="docs/wx.jpg" width="111px" height="153px">
